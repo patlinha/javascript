@@ -6,5 +6,5 @@ Aprenda javascript de forma simples
 
 ![HomemLetra](homem-letra.gif)
 
-###Link do curso
-![aulaJS] (https://emojipedia.org/)
+### Link do curso
+![aulaJS](https://emojipedia.org/)
